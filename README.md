@@ -1,0 +1,2 @@
+# -nstagram
+Hesap alma
